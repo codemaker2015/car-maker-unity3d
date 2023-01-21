@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: fb7edaaaf60add744b340057bdac714f
+timeCreated: 1465389354
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 06AirFilter
+    100002: 06CamshaftSport
+    100004: 06CamshaftStock
+    100006: 06Carburetor
+    100008: 06Clutch
+    100010: 06Compressor
+    100012: 06CompressorPiping
+    100014: 06Crankshaft
+    100016: 06CylinderBlock
+    100018: 06CylinderHead
+    100020: 06CylinderHeadCover
+    100022: 06DriveShaft
+    100024: 06ExhaustHighway
+    100026: 06ExhaustManifold
+    100028: 06Gearbox
+    100030: 06IgnitionSystem
+    100032: 06IntakeManifold
+    100034: 06OilPan
+    100036: 06PistonsReinforsed
+    100038: 06PistonsStock
+    100040: 06TimingBelt
+    100042: 06ValvesCover
+    100044: //RootNode
+    400000: 06AirFilter
+    400002: 06CamshaftSport
+    400004: 06CamshaftStock
+    400006: 06Carburetor
+    400008: 06Clutch
+    400010: 06Compressor
+    400012: 06CompressorPiping
+    400014: 06Crankshaft
+    400016: 06CylinderBlock
+    400018: 06CylinderHead
+    400020: 06CylinderHeadCover
+    400022: 06DriveShaft
+    400024: 06ExhaustHighway
+    400026: 06ExhaustManifold
+    400028: 06Gearbox
+    400030: 06IgnitionSystem
+    400032: 06IntakeManifold
+    400034: 06OilPan
+    400036: 06PistonsReinforsed
+    400038: 06PistonsStock
+    400040: 06TimingBelt
+    400042: 06ValvesCover
+    400044: //RootNode
+    2300000: 06AirFilter
+    2300002: 06CamshaftSport
+    2300004: 06CamshaftStock
+    2300006: 06Carburetor
+    2300008: 06Clutch
+    2300010: 06Compressor
+    2300012: 06CompressorPiping
+    2300014: 06Crankshaft
+    2300016: 06CylinderBlock
+    2300018: 06CylinderHead
+    2300020: 06CylinderHeadCover
+    2300022: 06DriveShaft
+    2300024: 06ExhaustHighway
+    2300026: 06ExhaustManifold
+    2300028: 06Gearbox
+    2300030: 06IgnitionSystem
+    2300032: 06IntakeManifold
+    2300034: 06OilPan
+    2300036: 06PistonsReinforsed
+    2300038: 06PistonsStock
+    2300040: 06TimingBelt
+    2300042: 06ValvesCover
+    3300000: 06AirFilter
+    3300002: 06CamshaftSport
+    3300004: 06CamshaftStock
+    3300006: 06Carburetor
+    3300008: 06Clutch
+    3300010: 06Compressor
+    3300012: 06CompressorPiping
+    3300014: 06Crankshaft
+    3300016: 06CylinderBlock
+    3300018: 06CylinderHead
+    3300020: 06CylinderHeadCover
+    3300022: 06DriveShaft
+    3300024: 06ExhaustHighway
+    3300026: 06ExhaustManifold
+    3300028: 06Gearbox
+    3300030: 06IgnitionSystem
+    3300032: 06IntakeManifold
+    3300034: 06OilPan
+    3300036: 06PistonsReinforsed
+    3300038: 06PistonsStock
+    3300040: 06TimingBelt
+    3300042: 06ValvesCover
+    4300000: 06AirFilter
+    4300002: 06CylinderHead
+    4300004: 06Compressor
+    4300006: 06CylinderBlock
+    4300008: 06PistonsReinforsed
+    4300010: 06PistonsStock
+    4300012: 06Crankshaft
+    4300014: 06OilPan
+    4300016: 06Gearbox
+    4300018: 06Clutch
+    4300020: 06CamshaftStock
+    4300022: 06CamshaftSport
+    4300024: 06CylinderHeadCover
+    4300026: 06IgnitionSystem
+    4300028: 06IntakeManifold
+    4300030: 06Carburetor
+    4300032: 06TimingBelt
+    4300034: 06ExhaustManifold
+    4300036: 06CompressorPiping
+    4300038: 06ExhaustHighway
+    4300040: 06DriveShaft
+    4300042: 06ValvesCover
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

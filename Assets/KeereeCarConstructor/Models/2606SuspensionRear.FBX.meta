@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: b273ab5b7c2f4fd4da0cd3de2e062eac
+timeCreated: 1465389341
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 06AbsorberRLSport
+    100002: 06AbsorberRLStock
+    100004: 06AbsorberRRSport
+    100006: 06AbsorberRRStock
+    100008: 06BeamAxle
+    100010: 06BrakeDiskRL
+    100012: 06BrakeDiskRR
+    100014: 06HubRL
+    100016: 06HubRR
+    100018: 06WheelRLType1
+    100020: 06WheelRLType2
+    100022: 06WheelRRType1
+    100024: 06WheelRRType2
+    100026: 06WiderRL
+    100028: 06WiderRR
+    100030: //RootNode
+    400000: 06AbsorberRLSport
+    400002: 06AbsorberRLStock
+    400004: 06AbsorberRRSport
+    400006: 06AbsorberRRStock
+    400008: 06BeamAxle
+    400010: 06BrakeDiskRL
+    400012: 06BrakeDiskRR
+    400014: 06HubRL
+    400016: 06HubRR
+    400018: 06WheelRLType1
+    400020: 06WheelRLType2
+    400022: 06WheelRRType1
+    400024: 06WheelRRType2
+    400026: 06WiderRL
+    400028: 06WiderRR
+    400030: //RootNode
+    2300000: 06AbsorberRLSport
+    2300002: 06AbsorberRLStock
+    2300004: 06AbsorberRRSport
+    2300006: 06AbsorberRRStock
+    2300008: 06BeamAxle
+    2300010: 06BrakeDiskRL
+    2300012: 06BrakeDiskRR
+    2300014: 06HubRL
+    2300016: 06HubRR
+    2300018: 06WheelRLType1
+    2300020: 06WheelRLType2
+    2300022: 06WheelRRType1
+    2300024: 06WheelRRType2
+    2300026: 06WiderRL
+    2300028: 06WiderRR
+    3300000: 06AbsorberRLSport
+    3300002: 06AbsorberRLStock
+    3300004: 06AbsorberRRSport
+    3300006: 06AbsorberRRStock
+    3300008: 06BeamAxle
+    3300010: 06BrakeDiskRL
+    3300012: 06BrakeDiskRR
+    3300014: 06HubRL
+    3300016: 06HubRR
+    3300018: 06WheelRLType1
+    3300020: 06WheelRLType2
+    3300022: 06WheelRRType1
+    3300024: 06WheelRRType2
+    3300026: 06WiderRL
+    3300028: 06WiderRR
+    4300000: 06BeamAxle
+    4300002: 06WiderRL
+    4300004: 06BrakeDiskRL
+    4300006: 06HubRL
+    4300008: 06AbsorberRLSport
+    4300010: 06AbsorberRLStock
+    4300012: 06BrakeDiskRR
+    4300014: 06WiderRR
+    4300016: 06HubRR
+    4300018: 06AbsorberRRSport
+    4300020: 06AbsorberRRStock
+    4300022: 06WheelRRType2
+    4300024: 06WheelRRType1
+    4300026: 06WheelRLType1
+    4300028: 06WheelRLType2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
